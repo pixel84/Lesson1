@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Lesson1
+//  Lesson1complete
 //
 //  Created by Alex Shader on 20.05.2020.
 //  Copyright © 2020 shaderness. All rights reserved.
